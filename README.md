@@ -7,4 +7,4 @@ Public copies of the legal pages that ship inside the SKYLINE ACE app, served by
 - `support.html` — support contact
 
 The source of truth is the app repository's `public/` folder; these files are re-copied on every change.
-Publisher: Derick Will Bencion (developer name DB DEV) · skylineace2026@gmail.com
+Publisher: Derick Will Bencion (developer name DB DEV) · skylineace.help@outlook.com
